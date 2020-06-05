@@ -27,7 +27,7 @@ GET /v2.0/floatingips
 </thead>
 <tbody><tr id="zh-cn_topic_0201534068_row27572562488"><td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.1 "><p id="zh-cn_topic_0201534068_p176864111411"><a name="zh-cn_topic_0201534068_p176864111411"></a><a name="zh-cn_topic_0201534068_p176864111411"></a>id</p>
 </td>
-<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0201534068_p136865110419"><a name="zh-cn_topic_0201534068_p136865110419"></a><a name="zh-cn_topic_0201534068_p136865110419"></a>是</p>
+<td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.2 "><p id="zh-cn_topic_0201534068_p136865110419"><a name="zh-cn_topic_0201534068_p136865110419"></a><a name="zh-cn_topic_0201534068_p136865110419"></a>否</p>
 </td>
 <td class="cellrowborder" valign="top" width="25%" headers="mcps1.2.5.1.3 "><p id="zh-cn_topic_0201534068_p16861211413"><a name="zh-cn_topic_0201534068_p16861211413"></a><a name="zh-cn_topic_0201534068_p16861211413"></a>String</p>
 </td>
