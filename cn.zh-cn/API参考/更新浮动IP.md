@@ -187,7 +187,6 @@ PUT /v2.0/floatingips/\{floatingip\_id\}
 <td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.2 "><p id="zh-cn_topic_0201534103_p612316509712"><a name="zh-cn_topic_0201534103_p612316509712"></a><a name="zh-cn_topic_0201534103_p612316509712"></a>String</p>
 </td>
 <td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.3 "><p id="zh-cn_topic_0201534103_p10487112"><a name="zh-cn_topic_0201534103_p10487112"></a><a name="zh-cn_topic_0201534103_p10487112"></a>项目ID</p>
-<p id="zh-cn_topic_0201534103_p51231950174"><a name="zh-cn_topic_0201534103_p51231950174"></a><a name="zh-cn_topic_0201534103_p51231950174"></a>。</p>
 </td>
 </tr>
 <tr id="zh-cn_topic_0201534103_row11176241720"><td class="cellrowborder" valign="top" width="33.33333333333333%" headers="mcps1.2.4.1.1 "><p id="zh-cn_topic_0201534103_p11222111885214"><a name="zh-cn_topic_0201534103_p11222111885214"></a><a name="zh-cn_topic_0201534103_p11222111885214"></a>dns_name</p>
